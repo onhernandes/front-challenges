@@ -9,3 +9,10 @@ Here go some cool front end challenges that you can do and practice your learnin
 1. Choose a challenge - doesn't matter if you start with number 15 and keep with 27
 1. Open his folder - each challenge has a folder with a basic index.html file and you can do everything that you need to finish the challenge there
 1. Do it - doesn't matter if you think that you can do or not, just DO IT.
+
+## Adding challenges
+
+1. Fork that repo
+1. Add your challenge to the list
+1. Create a folder with the your challenge's name and copy index-demo.html to there
+1. Give me a PR
