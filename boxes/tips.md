@@ -1,0 +1,1 @@
+You can see about flexbox [here - pt br](http://edsonjunior.com/um-guia-visual-para-flexbox/) or [here - eng](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
