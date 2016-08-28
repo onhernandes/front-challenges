@@ -21,4 +21,5 @@ Here go some cool front end challenges that you can do and practice your learnin
 
 ## Challenges
 
-1. Do a section with boxes aligned like [that](http://forefathersgroup.com/) - just the boxes
+1. Do a section with boxes aligned like [that](http://forefathersgroup.com/) - just the boxes, [folder](https://github.com/devmath/front-challenges/tree/master/boxes)
+1. Draw one heart, square, triangle and circle with CSS - [folder](https://github.com/devmath/front-challenges/tree/master/basic-forms)
