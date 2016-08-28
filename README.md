@@ -16,3 +16,9 @@ Here go some cool front end challenges that you can do and practice your learnin
 1. Add your challenge to the list
 1. Create a folder with the your challenge's name and copy index-demo.html to there
 1. Give me a PR
+
+----------------------
+
+## Challenges
+
+1. Do a section with boxes aligned like [that](http://forefathersgroup.com/) - just the boxes
