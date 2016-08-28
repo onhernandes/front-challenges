@@ -21,5 +21,6 @@ Here go some cool front end challenges that you can do and practice your learnin
 
 ## Challenges
 
+1. Draw a heart, square, triangle and circle with CSS - [folder](https://github.com/devmath/front-challenges/tree/master/basic-forms)
+1. Draw an YouTube logo with CSS - [folder](https://github.com/devmath/front-challenges/tree/master/youtube)
 1. Do a section with 12 boxes aligned like [that](http://forefathersgroup.com/) using flexbox and article tags - just the boxes, [folder](https://github.com/devmath/front-challenges/tree/master/boxes)
-1. Draw one heart, square, triangle and circle with CSS - [folder](https://github.com/devmath/front-challenges/tree/master/basic-forms)
