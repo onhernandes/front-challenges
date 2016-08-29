@@ -26,3 +26,4 @@ Here go some cool front end challenges that you can do and practice your learnin
 1. Do a section with 12 boxes aligned like [that](http://forefathersgroup.com/) using flexbox and article tags - just the boxes, [folder](https://github.com/devmath/front-challenges/tree/master/boxes)
 1. Draw a calendar of your birth month, using flexbox - [folder](https://github.com/devmath/front-challenges/tree/master/birth-calendar)
 1. Do a simple layout page with five columns, you can do it with flexbox too - what do you think about coloring them? [folder](https://github.com/devmath/front-challenges/tree/master/color-columns)
+1. Build a footer like that from [Uber](https://www.uber.com/pt/?exp=hp-c) - [folder](https://github.com/devmath/front-challenges/tree/master/uber-footer)
