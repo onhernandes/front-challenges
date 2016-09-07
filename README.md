@@ -27,7 +27,7 @@ Here go some cool front end challenges that you can do and practice your learnin
 1. Draw a calendar of your birth month, using flexbox - [folder](https://github.com/devmath/front-challenges/tree/master/birth-calendar)
 1. Do a simple layout page with five columns, you can do it with flexbox too - what do you think about coloring them? [folder](https://github.com/devmath/front-challenges/tree/master/color-columns)
 1. Build a footer like that from [Uber](https://www.uber.com/pt/?exp=hp-c) - [folder](https://github.com/devmath/front-challenges/tree/master/uber-footer)
-1. Create a menu like that from [SpaceX](http://www.spacex.com/) - [folder](https://github.com/devmath/front-challenges/tree/master/spacex-header)
+1. Create a header/section like [that](http://www.spacex.com/) - [folder](https://github.com/devmath/front-challenges/tree/master/spacex-header)
 1. Do a newsletter section like [that](http://blog.invisionapp.com/) - [folder](https://github.com/devmath/front-challenges/tree/master/newsletter-invision)
 1. Do a menu like [that](https://www.twilio.com/) - [folder](https://github.com/devmath/front-challenges/tree/master/twilio-menu)
 1. Draw a PureCSS logo like [that](http://purecss.io/img/logo_pure@2x.png) - [folder](https://github.com/devmath/front-challenges/tree/master/purecss-logo)
