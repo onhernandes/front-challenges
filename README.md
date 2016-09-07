@@ -31,3 +31,4 @@ Here go some cool front end challenges that you can do and practice your learnin
 1. Do a newsletter section like [that](http://blog.invisionapp.com/) - [folder](https://github.com/devmath/front-challenges/tree/master/newsletter-invision)
 1. Do a menu like [that](https://www.twilio.com/) - [folder](https://github.com/devmath/front-challenges/tree/master/twilio-menu)
 1. Draw a PureCSS logo like [that](http://purecss.io/img/logo_pure@2x.png) - [folder](https://github.com/devmath/front-challenges/tree/master/purecss-logo)
+1. Draw a animated 404 page - [folder](https://github.com/devmath/front-challenges/tree/master/animated-404)
