@@ -19,8 +19,10 @@ Here go some cool front end challenges that you can do and practice your learnin
 
 ----------------------
 
-## Challenges
+# Challenges
+-------------
 
+## Baby steps
 1. Draw a heart, square, triangle and circle with CSS - [folder](https://github.com/devmath/front-challenges/tree/master/basic-forms)
 1. Draw an YouTube logo with CSS - [folder](https://github.com/devmath/front-challenges/tree/master/youtube)
 1. Do a section with 12 boxes aligned like [that](http://forefathersgroup.com/) using flexbox and article tags - just the boxes, [folder](https://github.com/devmath/front-challenges/tree/master/boxes)
@@ -34,3 +36,9 @@ Here go some cool front end challenges that you can do and practice your learnin
 1. Draw a animated 404 page - [folder](https://github.com/devmath/front-challenges/tree/master/animated-404)
 1. Draw a mobile menu icon with CSS - [folder](https://github.com/devmath/front-challenges/tree/master/mobile-menu)
 1. Draw a menu bar like the Facebook - [folder](https://github.com/devmath/front-challenges/tree/master/facebook-menubar)
+
+
+## Working like a machine
+Learn how to use some king of CSS pre-processor like SASS/SCSS(I love this), LESS, Stylus or whatever.
+
+1. Build your own website dividing each section on a different pre-processor file. Like 'header.scss', 'about.scss', and join everything in a file - [folder](https://github.com/devmath/front-challenges/tree/master/your-own-website)
